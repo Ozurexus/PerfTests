@@ -1,0 +1,71 @@
+2024-10-27 16:02:08,905 INFO o.a.j.u.JMeterUtils: Setting Locale to en_GB
+2024-10-27 16:02:08,959 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-10-27 16:02:08,959 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-10-27 16:02:08,980 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-10-27 16:02:08,980 INFO o.a.j.JMeter: Version 5.6.3
+2024-10-27 16:02:08,981 INFO o.a.j.JMeter: java.version=11.0.24
+2024-10-27 16:02:08,981 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2024-10-27 16:02:08,981 INFO o.a.j.JMeter: os.name=Linux
+2024-10-27 16:02:08,981 INFO o.a.j.JMeter: os.arch=amd64
+2024-10-27 16:02:08,981 INFO o.a.j.JMeter: os.version=6.5.0-28-generic
+2024-10-27 16:02:08,981 INFO o.a.j.JMeter: file.encoding=UTF-8
+2024-10-27 16:02:08,981 INFO o.a.j.JMeter: java.awt.headless=null
+2024-10-27 16:02:08,981 INFO o.a.j.JMeter: Max memory     =1551892480
+2024-10-27 16:02:08,981 INFO o.a.j.JMeter: Available Processors =3
+2024-10-27 16:02:09,008 INFO o.a.j.JMeter: Default Locale=English (United Kingdom)
+2024-10-27 16:02:09,008 INFO o.a.j.JMeter: JMeter  Locale=English (United Kingdom)
+2024-10-27 16:02:09,009 INFO o.a.j.JMeter: JMeterHome=/home/vboxuser/Downloads/apache-jmeter-5.6.3
+2024-10-27 16:02:09,009 INFO o.a.j.JMeter: user.dir  =/home/vboxuser/Downloads/apache-jmeter-5.6.3/bin
+2024-10-27 16:02:09,010 INFO o.a.j.JMeter: PWD       =/home/vboxuser/Downloads/apache-jmeter-5.6.3/bin
+2024-10-27 16:02:09,010 INFO o.a.j.JMeter: IP: 127.0.1.1 Name: DevOps2 FullName: DevOps2.myguest.virtualbox.org
+2024-10-27 16:02:09,050 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-10-27 16:02:10,467 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2024-10-27 16:02:19,463 INFO o.a.j.s.FileServer: Default base='/home/vboxuser/Downloads/apache-jmeter-5.6.3/bin'
+2024-10-27 16:02:27,806 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-10-27 16:02:27,807 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-10-27 16:02:27,807 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-10-27 16:02:27,807 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-10-27 16:02:27,807 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2024-10-27 16:02:27,807 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2024-10-27 16:02:43,378 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2024-10-27 16:02:43,379 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2024-10-27 16:02:43,379 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2024-10-27 16:02:43,379 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2024-10-27 16:02:52,687 INFO o.a.j.s.FileServer: Set new base='/home/vboxuser/Downloads/apache-jmeter-5.6.3/bin'
+2024-10-27 16:02:52,945 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-10-27 16:02:52,955 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-10-27 16:02:52,957 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-10-27 16:02:53,093 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-10-27 16:02:53,094 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-10-27 16:02:53,094 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-10-27 16:02:53,095 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2024-10-27 16:02:53,095 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2024-10-27 16:02:53,483 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2024-10-27 16:02:53,585 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2024-10-27 16:02:53,585 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2024-10-27 16:02:53,586 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-10-27 16:02:53,586 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2024-10-27 16:02:53,589 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-10-27 16:02:53,590 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-10-27 16:02:53,591 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2024-10-27 16:02:53,628 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DevOps2
+2024-10-27 16:02:53,640 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2024-10-27 16:02:53,805 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2024-10-27 16:02:53,806 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2024-10-27 16:02:53,810 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-10-27 16:02:53,810 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2024-10-27 16:34:47,840 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-10-27 16:34:47,841 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-10-27 16:34:47,852 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2024-10-27 16:34:47,992 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2024-10-27 16:34:47,993 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2024-10-27 16:34:47,994 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-10-27 16:34:47,994 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2024-10-27 16:34:47,999 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-10-27 16:34:47,999 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-10-27 16:34:48,003 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2024-10-27 16:34:48,278 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2024-10-27 16:34:48,278 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2024-10-27 16:34:48,279 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-10-27 16:34:48,280 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2024-10-27 16:35:06,691 INFO o.a.j.s.FileServer: Set new base='/home/vboxuser/Downloads/apache-jmeter-5.6.3/bin'
